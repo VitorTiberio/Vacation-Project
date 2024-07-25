@@ -1,4 +1,4 @@
-//Develop by Vitor Augusto Tibério - Undergraduate at Electrical Engineering - University São Paulo (USP) - Brazil
+//Developed by Vitor Augusto Tibério - Undergraduate at Electrical Engineering - University São Paulo (USP) - Brazil
 //From this code, I used a part of project from Abhishek Ghosh
 // Link from his Git: https://github.com/AbhishekGhosh/Arduino-Buzzer-Tone-Codes/blob/master/star-wars.ino 
 // I adapt his code for this apliccation
